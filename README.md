@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Zymantas Maumevicius (@fr0stylo) senior software engineer @Billo.app
 - 👀 I’m interested in NodeJS, Go, Kubernetes, istio, microservices and performance
-- 🌱 I’m currently learning my Masters alongside with Go
-
+- 🌱 I’m currently learning Go
 - 📫 You can reach me via email, or via linked in.
 
 <!---
