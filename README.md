@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zymantas Maumevicius (@fr0stylo) senior software engineer @Cast.ai
 - 👀 I’m interested in NodeJS, Go, Kubernetes, istio, microservices and performance
-- 🌱 I’m currently learning Go
+- 🌱 I’m builing platforms for developers
 - 📫 You can reach me via email, or via linked in.
 
 <!---
